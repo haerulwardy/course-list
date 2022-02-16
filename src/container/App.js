@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Hello world</h1>
+      <h1 style={{color: 'red'}} >Hello wardy</h1>
     </>
   );
 }
